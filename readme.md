@@ -1,0 +1,1 @@
+My very first HTML/CSS project! I officially started coding on the 26th of July and so happy to be able to complete this project on freeCodeCamp! The code isn't very clean and dry but I guess it's a good start

@@ -1,0 +1,107 @@
+#title{
+  margin-top: 50px;
+        }
+
+ #description{
+   margin-top: -10px;
+   font-style: italic;
+        }
+  
+  body {
+  background-color: #1b1b32;
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 18px;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(320deg, #faedcb, #dbcdf0, #f7d9c4, #c9e4de)
+}
+
+/* white text border*/
+.suggest textarea, .user-details input, .dropdown1 select, .dropdown2 select{
+  display: block;
+  padding: 1em;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #fff;
+}
+
+
+/*how to make form go all the way below*/
+form {
+            background-color: #ffffff80;
+            max-width: 500px;
+            height: auto;
+            margin: 10px auto;
+            padding: 20px 50px;
+            border-radius: 3px;
+            box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+        }
+
+.user-details label, .dropdown1 label, .dropdown2 label, .suggest label{
+    display: block;
+    text-align: left;
+    padding: 1em 0 0.5em 0;
+  }
+
+.radioselc, #rec-label {
+ display: block;
+    text-align: left;
+    padding: 1em 0 0.5em 0;
+}
+
+
+.radiorec{
+  margin: 0.5em 0.5em 0.5em 0;
+}
+
+
+.dropdown2 label{
+  padding: 1em 0 0.5em 0
+}
+
+#improve-label{
+  display: block;
+  margin: 1em 0 -0.5em 0;
+}
+
+  .checkboxes {
+  text-align: left;
+}
+
+.checkboxes input{
+  margin: 0 0 15px 0;
+}
+
+.checkboxes label{
+  margin: 0 0 15px 3px;
+  padding: 10px 0 0 0;
+}
+
+/*checkbox size and alignment*/
+.check {
+  width: 20px;
+  height: 20px;
+  vertical-align: top;
+}
+  /*radio size and alignment*/
+.radiorec {
+  width: 20px;
+  height: 20px;
+  vertical-align: sub;
+}
+
+.submitbut input{
+  width: 100%;
+  height: 3em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  background-color: #FAC898;
+  border-radius: 50px;
+  border: 2px solid #FAC898;
+}
+
+
+textarea {
+  height: 10em;
+}
